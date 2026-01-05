@@ -413,3 +413,11 @@ The model's performance is evaluated using accuracy on the test split. The `Trai
 ### Usage
 
 The notebook provides a complete pipeline from loading the data to performing inference on an external image URL. The fine-tuned model can be loaded using the `pipeline("image-classification", model='food_classification')` command.
+
+
+<a id="acknowledgments"></a>
+## ![Credits Badge](https://img.shields.io/badge/Credits-KGPTalkie|LaxmiKant-blue?style=flat-square)
+
+The content is based on KGPTalkie's comprehensive nlp learning course (Master Transformer models for advanced NLP applications on custom data) and reflects his expertise in making complex nlp learning concepts accessible through practical, hands-on examples.
+
+Visit [KGPTalkie's Udemy Page](https://www.udemy.com/user/laxmi-kant-tiwari/) for more resources on machine learning and deep learning.
