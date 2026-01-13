@@ -12,6 +12,11 @@ This repository contains various projects focused on fine-tuning Large Language 
 
 ---
 
+🚀✨ [`hugging_custom_ai_model`](https://github.com/Adnan-edu/hugging_custom_ai_model) is a hands-on deep learning project focused on **text classification using PyTorch and the Hugging Face ecosystem**.  
+👉 For more details and to explore the code, head over to the repository!
+
+---
+
 ## 1. Multi-Class Sentiment Classification for Twitter Tweets
 
 ![Streamlit App Interface](1_multiclass_twitter_tweets/streamlit-app.png)
